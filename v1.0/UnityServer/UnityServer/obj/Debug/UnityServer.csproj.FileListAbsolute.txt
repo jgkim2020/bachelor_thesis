@@ -1,0 +1,15 @@
+c:\users\lucid jeong\documents\visual studio 2015\Projects\UnityServer\UnityServer\bin\Debug\UnityServer.exe
+c:\users\lucid jeong\documents\visual studio 2015\Projects\UnityServer\UnityServer\bin\Debug\UnityServer.pdb
+c:\users\lucid jeong\documents\visual studio 2015\Projects\UnityServer\UnityServer\obj\Debug\UnityServer.csprojResolveAssemblyReference.cache
+c:\users\lucid jeong\documents\visual studio 2015\Projects\UnityServer\UnityServer\obj\Debug\UnityServer.exe
+c:\users\lucid jeong\documents\visual studio 2015\Projects\UnityServer\UnityServer\obj\Debug\UnityServer.pdb
+C:\Users\jgkim2020\Desktop\wksp\unity_tutorials\UnityServer\UnityServer\obj\Debug\UnityServer.exe
+C:\Users\jgkim2020\Desktop\wksp\unity_tutorials\UnityServer\UnityServer\obj\Debug\UnityServer.pdb
+C:\Users\jgkim2020\Desktop\wksp\unity_tutorials\UnityServer\UnityServer\bin\Debug\UnityServer.exe
+C:\Users\jgkim2020\Desktop\wksp\unity_tutorials\UnityServer\UnityServer\bin\Debug\UnityServer.pdb
+C:\Users\jgkim2020\Desktop\wksp\unity_tutorials\UnityServer\UnityServer\obj\Debug\UnityServer.csprojResolveAssemblyReference.cache
+C:\Users\jgkim2020\Desktop\wksp\v1.0\UnityServer\UnityServer\obj\Debug\UnityServer.exe
+C:\Users\jgkim2020\Desktop\wksp\v1.0\UnityServer\UnityServer\obj\Debug\UnityServer.pdb
+C:\Users\jgkim2020\Desktop\wksp\v1.0\UnityServer\UnityServer\bin\Debug\UnityServer.exe
+C:\Users\jgkim2020\Desktop\wksp\v1.0\UnityServer\UnityServer\bin\Debug\UnityServer.pdb
+C:\Users\jgkim2020\Desktop\wksp\v1.0\UnityServer\UnityServer\obj\Debug\UnityServer.csprojResolveAssemblyReference.cache

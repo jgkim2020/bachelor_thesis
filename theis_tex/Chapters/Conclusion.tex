@@ -1,0 +1,13 @@
+% Conclusion
+
+\chapter{Conclusion} % Main chapter title
+
+\label{Chapter4} % Change X to a consecutive number; for referencing this chapter elsewhere, use \ref{ChapterX}
+
+%----------------------------------------------------------------------------------------
+%	SECTION 1
+%----------------------------------------------------------------------------------------
+
+Generating locomotion from WIP motion has been achieved with various setups. LLCM-WIP \citep{Fea08} used magnetic sensors mounted to the knees to track WIP motion and to the chest to determine the heading. GUD-WIP \citep{Wen10} and SAS-WIP \citep{Bru13} both used optical motion capture system with trackers attached to the shins (GUD-WIP) and to the the feet (SAS-WIP), respectively. \cite{Bru17} improved upon SAS-WIP and used a commercial hardware (Microsoft Kinect) instead of an optical motion capture system. Recently there has been attempts such as the VR-STEP \citep{Tre16} to implement the WIP technique with on-board smartphone sensors only. Though it lacks sophistication such as variable locomotion speeds with spatio-temporal WIP parameters achieved in other setups, no custom hardware is required. 
+\\\\
+The setup proposed in this paper retains the level of sophistication of the most recent research and at the same time reduces the bulk and the cost of additional hardware required. Moreover, unlike some setups in the literature, the inside-out nature of this setup does not require external sensor arrays which allows for a hassle free user experience. For research purposes LPMS-B2 modules costing 300\$ each was used. However, consumer-grade MEMS IMU sensor which is inexpensive and small enough to be integrated in the shoe, is adequate for the setup proposed in this paper. Future studies might focus on developing custom hardware and conducting user surveys to further iron out issues and improve performance metrics.

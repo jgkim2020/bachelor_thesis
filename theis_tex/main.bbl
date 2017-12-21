@@ -1,0 +1,1090 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.8 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\sortlist[entry]{nyt/global/}
+  \entry{Bru13}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=BLC}{%
+         family={Bruno},
+         familyi={B\bibinitperiod},
+         given={Lu{\'i}s\bibnamedelima C.},
+         giveni={L\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=PJ}{%
+         family={Pereira},
+         familyi={P\bibinitperiod},
+         given={Jo{\~a}o},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=JJ}{%
+         family={Jorge},
+         familyi={J\bibinitperiod},
+         given={Joaquim},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BLCPJJJ1}
+    \strng{fullhash}{BLCPJJJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2013}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{abstract}{%
+    Walking in Place (WIP) is an important locomotion technique used in virtual
+  environments. This paper proposes a new approach to WIP, called
+  Speed-Amplitude-Supported Walking-in-Place (SAS-WIP), which allows people,
+  when walking along linear paths, to control their virtual speed based on
+  footstep amplitude and speed metrics. We argue that our approach allows users
+  to better control the virtual distance covered by the footsteps, achieve
+  higher average speeds and experience less fatigue than when using
+  state-of-the-art methods based on footstep frequency, called GUD-WIP. An
+  in-depth user evaluation with twenty participants compared our approach to
+  GUD-WIP on common travel tasks over a range of short, medium and long
+  dis-tances. We measured task performance using four distinct criteria:
+  effectiveness, precision, efficiency and speed. The results show that SAS-WIP
+  is both more efficient and faster than GUD-WIP when walking long distances
+  while being more effective and precise over short distances. When asked their
+  opinion via a post-test questionnaire, participants preferred SAS-WIP to
+  GUD-WIP and reported experiencing less fatigue, having more fun and having a
+  greater level of control when using our approach.%
+    }
+    \field{booktitle}{Human-Computer Interaction - INTERACT 2013: 14th IFIP TC
+  13 International Conference Proceedings}
+    \field{number}{3}
+    \field{pages}{370\bibrangedash 387}
+    \field{title}{A New Approach to Walking in Place}
+    \verb{url}
+    \verb https://doi.org/10.1007/978-3-642-40477-1_23
+    \endverb
+    \field{volume}{8119}
+    \field{month}{09}
+    \field{year}{2013}
+  \endentry
+
+  \entry{Bru17}{article}{}
+    \name{author}{5}{}{%
+      {{hash=BLC}{%
+         family={Bruno},
+         familyi={B\bibinitperiod},
+         given={Lu{\'{\i}}s\bibnamedelima C.},
+         giveni={L\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=SM}{%
+         family={Sousa},
+         familyi={S\bibinitperiod},
+         given={Maur{\'{\i}}cio},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=FA}{%
+         family={Ferreira},
+         familyi={F\bibinitperiod},
+         given={Alfredo},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=PJM}{%
+         family={Pereira},
+         familyi={P\bibinitperiod},
+         given={Jo{\~{a}}o\bibnamedelima Madeiras},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=JJA}{%
+         family={Jorge},
+         familyi={J\bibinitperiod},
+         given={Joaquim\bibnamedelima A.},
+         giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BLC+1}
+    \strng{fullhash}{BLCSMFAPJMJJA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2017}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{abstract}{%
+    Walking-in-place (WIP) is a locomotion technique that allows users to
+  travel in virtual environments (VEs) without significantly changing their
+  physical position on the floor. Hip-directed steering(HDS) is a novel
+  physical technique for controlling direction changes in virtual travel using
+  hip movements. We present an WIP-based navigation approach for controlling
+  locomotion in VEs that combines the speed and direction in a scenario similar
+  to a domestic setup in which people interact with a flat screen. Their
+  physical motion data are captured by one depth camera properly aligned with
+  the screen and oriented toward the user. We approach the characteristically
+  noisy data generated by depth cameras via a user study to determine both the
+  range of values and their robustness from the motion data associated with the
+  joints relevant to WIP speed(knee, ankle and foot) and HDS (spine, hip and
+  shoulder) to derive a reliable technique. Our WIP speed method is supported
+  in a simple vocabulary of five different footstep types. Experimental results
+  show that both the knee and hip provide the most robust data. We evaluated
+  our techniques via usability tests exercising common locomotion tasks. The
+  results show that users liked both the speed control and comfort afforded by
+  our speed method. Regarding HDS, users reported that the angular-based method
+  allowed them to travel faster and was both more controllable and easier to
+  learn than the time-based method. Our work shows that a single depth camera
+  can be used to combine locomotion and direction control in a simple and
+  affordable setup.%
+    }
+    \field{pages}{1\bibrangedash 11}
+    \field{title}{Hip-directed walking-in-place using a single depth camera}
+    \verb{url}
+    \verb https://doi.org/10.1016/j.ijhcs.2017.03.006
+    \endverb
+    \field{volume}{105}
+    \field{journaltitle}{Int. J. Hum.-Comput. Stud.}
+    \field{month}{09}
+    \field{year}{2017}
+  \endentry
+
+  \entry{Fea08}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=FJ}{%
+         family={Feasel},
+         familyi={F\bibinitperiod},
+         given={Jeff},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=WMC}{%
+         family={Whitton},
+         familyi={W\bibinitperiod},
+         given={Mary\bibnamedelima C.},
+         giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=WJD}{%
+         family={Wendt},
+         familyi={W\bibinitperiod},
+         given={Jeremy\bibnamedelima D.},
+         giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FJWMCWJD1}
+    \strng{fullhash}{FJWMCWJD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2008}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{abstract}{%
+    Walking-in-place techniques for locomotion in virtual environments
+  typically have two problems that impact their usability: system latency
+  (particularly troublesome when starting and stopping locomotion), and the
+  fact that the change in the user's viewpoint may not be smooth and
+  continuous. This paper describes a new WIP interface that improves both
+  latency and the continuity of synthesized locomotion in the virtual
+  environment. By basing the virtual avatar motion on the speed of the user's
+  heel motion while walking in place, we create a direct mapping from
+  foot-motion to locomotion that is responsive, intuitive, and easy to
+  implement. In this paper, we describe the technique, analyze its starting and
+  stopping latency, and provide experimental results on the suppression of
+  false steps and general usability of the system.%
+    }
+    \field{booktitle}{Proceedings of the 2008 IEEE Symposium on 3D User
+  Interface}
+    \field{pages}{97\bibrangedash 104}
+    \field{title}{LLCM-WIP: Low-latency, continuous-motion walking-in-place}
+    \verb{url}
+    \verb http://ieeexplore.ieee.org/document/4476598/
+    \endverb
+    \field{volume}{3DUI '08}
+    \field{month}{04}
+    \field{year}{2008}
+  \endentry
+
+  \entry{Han17}{article}{}
+    \name{author}{6}{}{%
+      {{hash=HJ}{%
+         family={Hannink},
+         familyi={H\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=KT}{%
+         family={Kautz},
+         familyi={K\bibinitperiod},
+         given={T.},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=PCF}{%
+         family={Pasluosta},
+         familyi={P\bibinitperiod},
+         given={C.\bibnamedelima F.},
+         giveni={C\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+      {{hash=GKG}{%
+         family={Ga{\ss}mann},
+         familyi={G\bibinitperiod},
+         given={K.-G.},
+         giveni={K\bibinitperiod-G\bibinitperiod},
+      }}%
+      {{hash=KJ}{%
+         family={Klucken},
+         familyi={K\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=EBM}{%
+         family={Eskofier},
+         familyi={E\bibinitperiod},
+         given={B.\bibnamedelima M.},
+         giveni={B\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HJ+1}
+    \strng{fullhash}{HJKTPCFGKGKJEBM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2017}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{abstract}{%
+    Measurement of stride-related, biomechanical parameters is the common
+  rationale for objective gait impairment scoring. State-of-the-art
+  double-integration approaches to extract these parameters from inertial
+  sensor data are, however, limited in their clinical applicability due to the
+  underlying assumptions. To overcome this, we present a method to translate
+  the abstract information provided by wearable sensors to context-related
+  expert features based on deep convolutional neural networks. Regarding mobile
+  gait analysis, this enables integration-free and data-driven extraction of a
+  set of eight spatio-temporal stride parameters. To this end, two modeling
+  approaches are compared: a combined network estimating all parameters of
+  interest and an ensemble approach that spawns less complex networks for each
+  parameter individually. The ensemble approach is outperforming the combined
+  modeling in the current application. On a clinically relevant and publicly
+  available benchmark dataset, we estimate stride length, width and
+  medio-lateral change in foot angle up to -0.15 ± 6.09 cm, -0.09 ± 4.22 cm
+  and 0.13 ± 3.78° respectively. Stride, swing and stance time as well as
+  heel and toe contact times are estimated up to ±0.07, ±0.05, ±0.07, ±0.07
+  and ±0.12 s respectively. This is comparable to and in parts outperforming
+  or defining state of the art. Our results further indicate that the proposed
+  change in the methodology could substitute assumption-driven
+  double-integration methods and enable mobile assessment of spatio-temporal
+  stride parameters in clinically critical situations as, e.g., in the case of
+  spastic gait impairments.%
+    }
+    \field{number}{1}
+    \field{pages}{85\bibrangedash 93}
+    \field{title}{Sensor-Based Gait Parameter Extraction With Deep
+  Convolutional Neural Networks}
+    \verb{url}
+    \verb https://www.ncbi.nlm.nih.gov/pubmed/28103196
+    \endverb
+    \field{volume}{21}
+    \field{journaltitle}{IEEE Journal of Biomedical and Health Informatics}
+    \field{month}{01}
+    \field{year}{2017}
+  \endentry
+
+  \entry{Jas06}{article}{}
+    \name{author}{7}{}{%
+      {{hash=JJM}{%
+         family={Jasiewicz},
+         familyi={J\bibinitperiod},
+         given={Jan\bibnamedelima M.},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=AJHJ}{%
+         family={Allum},
+         familyi={A\bibinitperiod},
+         given={John H.\bibnamedelima J.},
+         giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim
+  J\bibinitperiod},
+      }}%
+      {{hash=MJW}{%
+         family={Middleton},
+         familyi={M\bibinitperiod},
+         given={James\bibnamedelima W.},
+         giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=BA}{%
+         family={Barriskill},
+         familyi={B\bibinitperiod},
+         given={Andrew},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=CP}{%
+         family={Condie},
+         familyi={C\bibinitperiod},
+         given={Peter},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=PB}{%
+         family={Purcell},
+         familyi={P\bibinitperiod},
+         given={Brendan},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=LRCT}{%
+         family={Li},
+         familyi={L\bibinitperiod},
+         given={Raymond Che\bibnamedelima Tin},
+         giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim
+  T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{JJM+1}
+    \strng{fullhash}{JJMAJHJMJWBACPPBLRCT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2006}
+    \field{sortinit}{J}
+    \field{sortinithash}{J}
+    \field{abstract}{%
+    We report on three different methods of gait event detection (toe-off and
+  heel strike) using miniature linear accelerometers and angular velocity
+  transducers in comparison to using standard pressure-sensitive foot switches.
+  Detection was performed with normal and spinal-cord injured subjects. The
+  detection of end contact (EC), normally toe-off, and initial contact (IC)
+  normally, heel strike was based on either foot linear accelerations or foot
+  sagittal angular velocity or shank sagittal angular velocity. The results
+  showed that all three methods were as accurate as foot switches in estimating
+  times of IC and EC for normal gait patterns. In spinal-cord injured subjects,
+  shank angular velocity was significantly less accurate (p<0.02). We conclude
+  that detection based on foot linear accelerations or foot angular velocity
+  can correctly identify the timing of IC and EC events in both normal and
+  spinal-cord injured subjects.%
+    }
+    \field{number}{4}
+    \field{pages}{502\bibrangedash 509}
+    \field{title}{Gait event detection using linear accelerometers or angular
+  velocity transducers in able-bodied and spinal-cord injured individuals}
+    \verb{url}
+    \verb https://www.ncbi.nlm.nih.gov/pubmed/16500102
+    \endverb
+    \field{volume}{24}
+    \field{journaltitle}{Gait \& Posture}
+    \field{month}{12}
+    \field{year}{2006}
+  \endentry
+
+  \entry{Ju16}{article}{}
+    \name{author}{5}{}{%
+      {{hash=JH}{%
+         family={Ju},
+         familyi={J\bibinitperiod},
+         given={Hojin},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=LMS}{%
+         family={Lee},
+         familyi={L\bibinitperiod},
+         given={Min\bibnamedelima Su},
+         giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=PSY}{%
+         family={Park},
+         familyi={P\bibinitperiod},
+         given={So\bibnamedelima Young},
+         giveni={S\bibinitperiod\bibinitdelim Y\bibinitperiod},
+      }}%
+      {{hash=SJW}{%
+         family={Song},
+         familyi={S\bibinitperiod},
+         given={Jin\bibnamedelima Woo},
+         giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=PCG}{%
+         family={Park},
+         familyi={P\bibinitperiod},
+         given={Chan\bibnamedelima Gook},
+         giveni={C\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{JH+1}
+    \strng{fullhash}{JHLMSPSYSJWPCG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2016}
+    \field{sortinit}{J}
+    \field{sortinithash}{J}
+    \field{abstract}{%
+    Measurement of stride-related, biomechanical parameters is the common
+  rationale for objective gait impairment scoring. State-of-the-art
+  double-integration approaches to extract these parameters from inertial
+  sensor data are, however, limited in their clinical applicability due to the
+  underlying assumptions. To overcome this, we present a method to translate
+  the abstract information provided by wearable sensors to context-related
+  expert features based on deep convolutional neural networks. Regarding mobile
+  gait analysis, this enables integration-free and data-driven extraction of a
+  set of eight spatio-temporal stride parameters. To this end, two modeling
+  approaches are compared: a combined network estimating all parameters of
+  interest and an ensemble approach that spawns less complex networks for each
+  parameter individually. The ensemble approach is outperforming the combined
+  modeling in the current application. On a clinically relevant and publicly
+  available benchmark dataset, we estimate stride length, width and
+  medio-lateral change in foot angle up to -0.15 ± 6.09 cm, -0.09 ± 4.22 cm
+  and 0.13 ± 3.78° respectively. Stride, swing and stance time as well as
+  heel and toe contact times are estimated up to ±0.07, ±0.05, ±0.07, ±0.07
+  and ±0.12 s respectively. This is comparable to and in parts outperforming
+  or defining state of the art. Our results further indicate that the proposed
+  change in the methodology could substitute assumption-driven
+  double-integration methods and enable mobile assessment of spatio-temporal
+  stride parameters in clinically critical situations as, e.g., in the case of
+  spastic gait impairments.%
+    }
+    \field{number}{1}
+    \field{pages}{015702}
+    \field{title}{A pedestrian dead-reckoning system that considers the
+  heel-strike and toe-off phases when using a foot-mounted IMU}
+    \verb{url}
+    \verb http://stacks.iop.org/0957-0233/27/i=1/a=015702
+    \endverb
+    \field{volume}{27}
+    \field{journaltitle}{Measurement Science and Technology}
+    \field{month}{01}
+    \field{year}{2016}
+  \endentry
+
+  \entry{Kit16}{article}{}
+    \name{author}{2}{}{%
+      {{hash=KN}{%
+         family={Kitagawa},
+         familyi={K\bibinitperiod},
+         given={Naoki},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=ON}{%
+         family={Ogihara},
+         familyi={O\bibinitperiod},
+         given={Naomichi},
+         giveni={N\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KNON1}
+    \strng{fullhash}{KNON1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2016}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{abstract}{%
+    To establish a supportive technology for reducing the risk of falling in
+  older people, it is essential to clarify gait characteristics in elderly
+  individuals that are possibly linked to the risk of falling during actual
+  daily activities. In this study, we developed a system to monitor human gait
+  in an outdoor environment using an inertial measurement unit consisting of a
+  tri-axial accelerometer and tri-axial gyroscope. Step-by-step foot
+  trajectories were estimated from the sensor unit attached to the dorsum of
+  the foot. Specifically, stride length and foot clearance were calculated by
+  integrating the gravity-compensated translational acceleration over time
+  during the swing phase. Zero vertical velocity and displacement corrections
+  were applied to obtain the final trajectory, assuming the slope of the
+  walking surface is negligible. Short, normal, and long stride-length walking
+  of 10 healthy participants was simultaneously measured using the proposed
+  system and a conventional motion capture system to evaluate the accuracy of
+  the estimated foot trajectory. Mean accuracy and precision were approximately
+  20 ± 50 mm, for stride length, and 2 ± 7 mm for foot clearance, indicating
+  that the swing phase trajectory of the sensor unit attached to the foot was
+  reconstructed more accurately and precisely using the proposed system than
+  with previously published methods owing to the flat floor assumption.
+  Although some methodological limitations certainly apply, this system will
+  serve as a useful tool to monitor human walking during daily activities.%
+    }
+    \field{pages}{110\bibrangedash 114}
+    \field{title}{Estimation of foot trajectory during human walking by a
+  wearable inertial measurement unit mounted to the foot}
+    \verb{url}
+    \verb https://www.ncbi.nlm.nih.gov/pubmed/26979891
+    \endverb
+    \field{volume}{45}
+    \field{journaltitle}{Gait \& Posture}
+    \field{month}{03}
+    \field{year}{2016}
+  \endentry
+
+  \entry{Mad11}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=MSOH}{%
+         family={Madgwick},
+         familyi={M\bibinitperiod},
+         given={Sebastian O.\bibnamedelima H.},
+         giveni={S\bibinitperiod\bibinitdelim O\bibinitperiod\bibinitdelim
+  H\bibinitperiod},
+      }}%
+      {{hash=HAJL}{%
+         family={Harrison},
+         familyi={H\bibinitperiod},
+         given={Andrew J.\bibnamedelima L.},
+         giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim
+  L\bibinitperiod},
+      }}%
+      {{hash=VR}{%
+         family={Vaidyanathan},
+         familyi={V\bibinitperiod},
+         given={Ravi},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MSOHHAJLVR1}
+    \strng{fullhash}{MSOHHAJLVR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2011}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{abstract}{%
+    This paper presents a novel orientation algorithm designed to support a
+  computationally efficient, wearable inertial human motion tracking system for
+  rehabilitation applications. It is applicable to inertial measurement units
+  (IMUs) consisting of tri-axis gyroscopes and accelerometers, and magnetic
+  angular rate and gravity (MARG) sensor arrays that also include tri-axis
+  magnetometers. The MARG implementation incorporates magnetic distortion
+  compensation. The algorithm uses a quaternion representation, allowing
+  accelerometer and magnetometer data to be used in an analytically derived and
+  optimised gradient descent algorithm to compute the direction of the
+  gyroscope measurement error as a quaternion derivative. Performance has been
+  evaluated empirically using a commercially available orientation sensor and
+  reference measurements of orientation obtained using an optical measurement
+  system. Performance was also benchmarked against the propriety Kalman-based
+  algorithm of orientation sensor. Results indicate the algorithm achieves
+  levels of accuracy matching that of the Kalman based algorithm; <; 0.8°
+  static RMS error, <; 1.7° dynamic RMS error. The implications of the low
+  computational load and ability to operate at small sampling rates
+  significantly reduces the hardware and power necessary for wearable inertial
+  movement tracking, enabling the creation of lightweight, inexpensive systems
+  capable of functioning for extended periods of time.%
+    }
+    \field{booktitle}{2011 IEEE International Conference on Rehabilitation
+  Robotics}
+    \field{pages}{1\bibrangedash 7}
+    \field{title}{Estimation of IMU and MARG orientation using a gradient
+  descent algorithm}
+    \verb{url}
+    \verb http://ieeexplore.ieee.org/document/5975346/
+    \endverb
+    \field{volume}{ICORR '11}
+    \field{month}{06}
+    \field{year}{2011}
+  \endentry
+
+  \entry{Nil16}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=NNC}{%
+         family={Nilsson},
+         familyi={N\bibinitperiod},
+         given={Niels\bibnamedelima Christian},
+         giveni={N\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=SS}{%
+         family={Serafin},
+         familyi={S\bibinitperiod},
+         given={Stefania},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=NR}{%
+         family={Nordahl},
+         familyi={N\bibinitperiod},
+         given={Rolf},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{NNCSSNR1}
+    \strng{fullhash}{NNCSSNR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2016}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \field{abstract}{%
+    Immersive virtual reality (IVR) is seemingly on the verge of entering the
+  homes of consumers. Enabling users to walk through virtual worlds in a
+  limited physical space presents a challenge. With an outset in a taxonomy of
+  virtual travel techniques, we argue that Walking-in-Place (WIP) techniques
+  constitute a promising approach to virtual walking in relation to consumer
+  IVR. Subsequently we review existing approaches to WIP locomotion and
+  highlight the need for a more explicit focus on the perceived naturalness of
+  WIP techniques; i.e., the degree to which WIP locomotion feels like real
+  walking. Finally, we summarize work we have performed in order to produce
+  more natural WIP locomotion and present unexplored topics which need to be
+  address if WIP techniques are to provide perceptually natural walking
+  experiences.%
+    }
+    \field{booktitle}{Proceedings of the 18th International Conference on
+  Human-Computer Interaction. Interaction Platforms and Techniques}
+    \field{number}{2}
+    \field{pages}{37\bibrangedash 48}
+    \field{title}{Walking in Place Through Virtual Worlds}
+    \verb{url}
+    \verb http://dx.doi.org/10.1007/978-3-319-39516-6_4
+    \endverb
+    \field{volume}{9732}
+    \field{month}{07}
+    \field{year}{2016}
+  \endentry
+
+  \entry{Ram15}{article}{}
+    \name{author}{6}{}{%
+      {{hash=RA}{%
+         family={Rampp},
+         familyi={R\bibinitperiod},
+         given={Alexander},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=BJ}{%
+         family={Barth},
+         familyi={B\bibinitperiod},
+         given={Jens},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=SS}{%
+         family={Sch{\"u}lein},
+         familyi={S\bibinitperiod},
+         given={Samuel},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=GKG}{%
+         family={Ga{\ss}mann},
+         familyi={G\bibinitperiod},
+         given={Karl-G{\"u}nter},
+         giveni={K\bibinitperiod-G\bibinitperiod},
+      }}%
+      {{hash=KJ}{%
+         family={Klucken},
+         familyi={K\bibinitperiod},
+         given={Jochen},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=EBM}{%
+         family={Eskofier},
+         familyi={E\bibinitperiod},
+         given={Bj{\"o}rn\bibnamedelima M.},
+         giveni={B\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RA+1}
+    \strng{fullhash}{RABJSSGKGKJEBM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2015}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{abstract}{%
+    A detailed and quantitative gait analysis can provide evidence of various
+  gait impairments in elderly people. To provide an objective decision-making
+  basis for gait analysis, simple applicable tests analyzing a high number of
+  strides are required. A mobile gait analysis system, which is mounted on
+  shoes, can fulfill these requirements. This paper presents a method for
+  computing clinically relevant temporal and spatial gait parameters.
+  Therefore, an accelerometer and a gyroscope were positioned laterally below
+  each ankle joint. Temporal gait events were detected by searching for
+  characteristic features in the signals. To calculate stride length, the
+  gravity compensated accelerometer signal was double integrated, and sensor
+  drift was modeled using a piece-wise defined linear function. The presented
+  method was validated using GAITRite-based gait parameters from 101 patients
+  (average age 82.1 years). Subjects performed a normal walking test with and
+  without a wheeled walker. The parameters stride length and stride time showed
+  a correlation of 0.93 and 0.95 between both systems. The absolute error of
+  stride length was 6.26 cm on normal walking test. The developed system as
+  well as the GAITRite showed an increased stride length, when using a
+  four-wheeled walker as walking aid. However, the walking aid interfered with
+  the automated analysis of the GAITRite system, but not with the inertial
+  sensor-based approach. In summary, an algorithm for the calculation of
+  clinically relevant gait parameters derived from inertial sensors is
+  applicable in the diagnostic workup and also during long-term monitoring
+  approaches in the elderly population.%
+    }
+    \field{number}{4}
+    \field{pages}{1089\bibrangedash 1097}
+    \field{title}{Inertial sensor-based stride parameter calculation from gait
+  sequences in geriatric patients}
+    \verb{url}
+    \verb https://www.ncbi.nlm.nih.gov/pubmed/25389237
+    \endverb
+    \field{volume}{62}
+    \field{journaltitle}{IEEE Transactions on Biomedical Engineering}
+    \field{month}{04}
+    \field{year}{2015}
+  \endentry
+
+  \entry{Raz01}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=RS}{%
+         family={Razzaque},
+         familyi={R\bibinitperiod},
+         given={Sharif},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=KZ}{%
+         family={Kohn},
+         familyi={K\bibinitperiod},
+         given={Zachariah},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=WMC}{%
+         family={Whitton},
+         familyi={W\bibinitperiod},
+         given={Mary\bibnamedelima C.},
+         giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RSKZWMC1}
+    \strng{fullhash}{RSKZWMC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2001}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{abstract}{%
+    Redirected Walking, a new interactive locomotion technique for virtual
+  environments (VEs), captures the benefits of real walking while extending the
+  possible size of the VE. Real walking, although natural and producing a high
+  subjective sense of presence, limits virtual environments to the size of the
+  tracked space. Redirected Walking addresses this limitation by interactively
+  and imperceptibly rotating the virtual scene about the user. The rotation
+  causes the user to walk continually toward the furthest wall of the lab
+  without noticing the rotation. We implemented the technique using stereo
+  graphics and 3D spatialized audio. Observations during a pilot study suggest
+  that the technique works: Redirected Walking causes people to change their
+  real walking direction without noticing it, allows for larger VEs, and does
+  not induce appreciable simulator sickness.%
+    }
+    \field{booktitle}{Eurographics 2001 - Short Presentations}
+    \field{title}{Redirected Walking}
+    \verb{url}
+    \verb http://diglib.eg.org/handle/10.2312/egs20011036
+    \endverb
+    \field{year}{2001}
+  \endentry
+
+  \entry{Rue10}{article}{}
+    \name{author}{4}{}{%
+      {{hash=RJ}{%
+         family={Rueterbories},
+         familyi={R\bibinitperiod},
+         given={Jan},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=SEG}{%
+         family={Spaich},
+         familyi={S\bibinitperiod},
+         given={Erika\bibnamedelima G.},
+         giveni={E\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=LB}{%
+         family={Larsen},
+         familyi={L\bibinitperiod},
+         given={Birgit},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=AOK}{%
+         family={Andersen},
+         familyi={A\bibinitperiod},
+         given={Ole\bibnamedelima K.},
+         giveni={O\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RJ+1}
+    \strng{fullhash}{RJSEGLBAOK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2010}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{abstract}{%
+    After stroke, hemiparesis is a common problem resulting in very individual
+  needs for walking assistance. Often patients suffer from foot drop, i.e.
+  inability to lift the foot from the ground during the swing phase of walking.
+  Functional electrical stimulation is commonly used to correct foot drop. For
+  all supporting stimulation devices, it is vital to adequately detect the gait
+  events, which is traditionally obtained by a foot switch placed under the
+  heel. To investigate present methods of gait analysis and detection for use
+  in ambulatory rehabilitation systems, we carried out a meta-analysis on
+  research studies. We found various sensors and sensor combinations capable of
+  analyzing gait in ambulatory settings, ranging form simple force based binary
+  switches to complex setups involving multiple inertial sensors and advanced
+  algorithms. However additional effort is needed to minimize donning/doffing
+  efforts, to overcome cosmetical aspects, and to implement those systems into
+  closed loop ambulatory devices.%
+    }
+    \field{number}{6}
+    \field{pages}{545\bibrangedash 552}
+    \field{title}{Methods for gait event detection and analysis in ambulatory
+  systems}
+    \verb{url}
+    \verb https://www.ncbi.nlm.nih.gov/pubmed/20435502
+    \endverb
+    \field{volume}{32}
+    \field{journaltitle}{Medical Engineering \& Physics}
+    \field{month}{03}
+    \field{year}{2010}
+  \endentry
+
+  \entry{Sla95}{article}{}
+    \name{author}{3}{}{%
+      {{hash=SM}{%
+         family={Slater},
+         familyi={S\bibinitperiod},
+         given={Mel},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=UM}{%
+         family={Usoh},
+         familyi={U\bibinitperiod},
+         given={Martin},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=SA}{%
+         family={Steed},
+         familyi={S\bibinitperiod},
+         given={Anthony},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SMUMSA1}
+    \strng{fullhash}{SMUMSA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1995}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{abstract}{%
+    This article presents an interactive technique for moving through an
+  immersive virtual environment (or “virtual reality”). The technique is
+  suitable for applications where locomotion is restricted to ground level. The
+  technique is derived from the idea that presence in virtual environments may
+  be enhanced the stronger the match between proprioceptive information from
+  human body movements and sensory feedback from the computer-generated
+  displays. The technique is an attempt to simulate body movements associated
+  with walking. The participant “walks in place” to move through the
+  virtual environment across distances greater than the physical limitations
+  imposed by the electromagnetic tracking devices. A neural network is used to
+  analyze the stream of coordinates from the head-mounted display, to determine
+  whether or not the participant is walking on the spot. Whenever it determines
+  the walking behavior, the participant is moved through virtual space in the
+  direction of his or her gaze. We discuss two experimental studies to assess
+  the impact on presence of this method in comparison to the usual
+  hand-pointing method of navigation in virtual reality. The studies suggest
+  that subjective rating of presence is enhanced by the walking method provided
+  that participants associate subjectively with the virtual body provided in
+  the environment. An application of the technique to climbing steps and
+  ladders is also presented.%
+    }
+    \field{number}{3}
+    \field{pages}{201\bibrangedash 219}
+    \field{title}{Taking Steps: The Influence of a Walking Technique on
+  Presence in Virtual Reality}
+    \verb{url}
+    \verb http://doi.acm.org/10.1145/210079.210084
+    \endverb
+    \field{volume}{2}
+    \field{journaltitle}{ACM Transactions on Computer-Human Interaction}
+    \field{month}{09}
+    \field{year}{1995}
+  \endentry
+
+  \entry{Tre16}{inproceedings}{}
+    \name{author}{2}{}{%
+      {{hash=TS}{%
+         family={Tregillus},
+         familyi={T\bibinitperiod},
+         given={Sam},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=FE}{%
+         family={Folmer},
+         familyi={F\bibinitperiod},
+         given={Eelke},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TSFE1}
+    \strng{fullhash}{TSFE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2016}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{abstract}{%
+    Low-cost smartphone adapters can bring virtual reality to the masses, but
+  input is typically limited to using head tracking, which makes it difficult
+  to perform complex tasks like navigation. Walking-in-place (WIP) offers a
+  natural and immer-sive form of virtual locomotion that can reduce simulation
+  sickness. WIP, however, is difficult to implement in mobile contexts as it
+  typically relies on bulky controllers or an external camera. We present
+  VR-STEP; a WIP implementation that uses real-time pedometry to implement
+  virtual locomo-tion. VR-STEP requires no additional instrumentation outside
+  of a smartphone's inertial sensors. A user study with 18 users compares
+  VR-STEP with a commonly used auto-walk navigation method and finds no
+  significant difference in performance or reliability, though VR-STEP was
+  found to be more immersive and intuitive.%
+    }
+    \field{booktitle}{Proceedings of the 2016 CHI Conference on Human Factors
+  in Computing Systems}
+    \field{pages}{1250\bibrangedash 1255}
+    \field{title}{VR-STEP: Walking-in-Place Using Inertial Sensing for Hands
+  Free Navigation in Mobile VR Environments}
+    \verb{url}
+    \verb http://doi.acm.org/10.1145/2858036.2858084
+    \endverb
+    \field{volume}{CHI '16}
+    \field{month}{05}
+    \field{year}{2016}
+  \endentry
+
+  \entry{Wen10}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=WJD}{%
+         family={Wendt},
+         familyi={W\bibinitperiod},
+         given={Jeremy\bibnamedelima D.},
+         giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=WMC}{%
+         family={Whitton},
+         familyi={W\bibinitperiod},
+         given={Mary\bibnamedelima C.},
+         giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=BFP}{%
+         family={Brooks},
+         familyi={B\bibinitperiod},
+         given={Frederick\bibnamedelima P.},
+         giveni={F\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WJDWMCBFP1}
+    \strng{fullhash}{WJDWMCBFP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2010}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{abstract}{%
+    Many Virtual Environments require walking interfaces to explore virtual
+  worlds much larger than available real-world tracked space. We present a
+  model for generating virtual locomotion speeds from Walking-In-Place (WIP)
+  inputs based on walking biomechanics. By employing gait principles, our model
+  - called Gait-Understanding-Driven Walking-In-Place (GUD WIP) - creates
+  output speeds which better match those evident in Real Walking, and which
+  better respond to variations in step frequency, including realistic starting
+  and stopping. The speeds output by our implementation demonstrate
+  considerably less within-step fluctuation than a good current WIP system -
+  Low-Latency, Continuous-Motion (LLCM) WIP - while still remaining responsive
+  to changes in user input. We compared resulting speeds from Real Walking, GUD
+  WIP, and LLCM-WIP via user study: The average output speeds for Real Walking
+  and GUD WIP respond consistently with changing step frequency - LLCM-WIP is
+  far less consistent. GUD WIP produces output speeds that are more locally
+  consistent (smooth) and step-frequency-to-walk-speed consistent than
+  LLCM-WIP.%
+    }
+    \field{booktitle}{Proceedings of the 2010 IEEE Virtual Reality Conference}
+    \field{pages}{51\bibrangedash 58}
+    \field{title}{GUD WIP: Gait-Understanding-Driven Walking-In-Place}
+    \verb{url}
+    \verb http://dx.doi.org/10.1109/VR.2010.5444812
+    \endverb
+    \field{volume}{VR '10}
+    \field{month}{03}
+    \field{year}{2010}
+  \endentry
+
+  \entry{Whi06}{book}{}
+    \name{author}{1}{}{%
+      {{hash=WM}{%
+         family={Whittle},
+         familyi={W\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Butterworth-Heinemann}%
+    }
+    \strng{namehash}{WM1}
+    \strng{fullhash}{WM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2006}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{edition}{4}
+    \field{isbn}{9780750688833}
+    \field{title}{An Introduction to Gait Analysis}
+    \field{month}{12}
+    \field{year}{2006}
+  \endentry
+
+  \entry{Woo10}{thesis}{}
+    \name{author}{1}{}{%
+      {{hash=WO}{%
+         family={Woodman},
+         familyi={W\bibinitperiod},
+         given={Oliver},
+         giveni={O\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WO1}
+    \strng{fullhash}{WO1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2010}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{abstract}{%
+    Ubiquitous computing systems aim to assist us as we go about our daily
+  lives, whilst at the same time fading into the background so that we do not
+  notice their presence. To do this they need to be able to sense their
+  surroundings and infer context about the state of the world. Location has
+  proven to be an important source of contextual information for such systems.
+  If a device can determine its own location then it can infer its surroundings
+  and adapt accordingly. Of particular interest for many ubiquitous computing
+  systems is the ability to track people in indoor environments. This interest
+  has led to the development of many indoor location systems based on a range
+  of technologies including infra-red light, ultrasound and radio.
+  Unfortunately existing systems that achieve the kind of sub-metre accuracies
+  desired by many location-aware applications require large amounts of
+  infrastructure to be installed into the environment. This thesis investigates
+  an alternative approach to indoor pedestrian tracking that uses on-body
+  inertial sensors rather than relying on fixed infrastructure. It is
+  demonstrated that general purpose inertial navigation algorithms are
+  unsuitable for pedestrian tracking due to the rapid accumulation of errors in
+  the tracked position. In practice it is necessary to frequently correct such
+  algorithms using additional measurements or constraints. An extended Kalman
+  filter is developed for this purpose and is applied to track pedestrians
+  using foot-mounted inertial sensors. By detecting when the foot is stationary
+  and applying zero velocity corrections a pedestrian’s relative movements
+  can be tracked far more accurately than is possible using uncorrected
+  inertial navigation. Having developed an effective means of calculating a
+  pedestrian’s relative movements, a localisation filter is developed that
+  combines relative movement measurements with environmental constraints
+  derived from a map of the environment. By enforcing constraints such as
+  impassable walls and floors the filter is able to narrow down the absolute
+  position of a pedestrian as they move through an indoor environment. Once the
+  user’s position has been uniquely determined the same filter is
+  demonstrated to track the user’s absolute position to sub-metre accuracy.
+  The localisation filter in its simplest form is computationally expensive.
+  Furthermore symmetry exhibited by the environment may delay or prevent the
+  filter from determining the user’s position. The final part of this thesis
+  describes the concept of assisted localisation, in which additional
+  measurements are used to solve both of these problems. The use of sparsely
+  deployed WiFi access points is discussed in detail. The thesis concludes that
+  inertial sensors can be used to track pedestrians in indoor environments.
+  Such an approach is suited to cases in which it is impossible or impractical
+  to install large amounts of fixed infrastructure into the environment in
+  advance.%
+    }
+    \field{title}{Pedestrian localisation for indoor environments}
+    \list{institution}{1}{%
+      {University of Cambridge}%
+    }
+    \field{type}{phdthesis}
+    \field{month}{11}
+    \field{year}{2010}
+  \endentry
+\endsortlist
+\endinput

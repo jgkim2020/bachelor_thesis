@@ -1,0 +1,24 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\select@language {english}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Gait event definition}}{2}{figure.caption.10}
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Taxonomy of virtual travel techniques}}{4}{figure.caption.13}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces System overview}}{7}{figure.caption.18}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Sensor module with custom brackets}}{8}{figure.caption.19}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Gait event detection}}{8}{figure.caption.22}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Kitagawa's method}}{9}{figure.caption.24}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces FSM diagram for WIP motion}}{10}{figure.caption.27}
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Sample velocity profile for walking and WIP motion}}{12}{figure.caption.31}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Gait event detection results}}{14}{figure.caption.37}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Gait feature extraction results}}{15}{figure.caption.39}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces WIP event detection results}}{16}{figure.caption.42}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces WIP event detection with quaternion decomposition}}{17}{figure.caption.43}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces WIP session 1}}{18}{figure.caption.45}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces WIP session 2}}{18}{figure.caption.46}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces WIP session 3}}{19}{figure.caption.47}
+\contentsline {figure}{\numberline {3.8}{\ignorespaces WIP session 4}}{19}{figure.caption.48}
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Demo}}{20}{figure.caption.49}
+\addvspace {10\p@ }
